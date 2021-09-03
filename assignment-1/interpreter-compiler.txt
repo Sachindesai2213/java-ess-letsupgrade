@@ -1,0 +1,14 @@
+1.  Compiler: It executes the entire code and gives output
+    Interpreter: It executes the code line by line and gives output after 
+        execution of each line.
+
+2.  Compiler: All errors are shown after end of compilation.
+    Interpreter: Error are caught line by line, so after if we find a error
+        in a particular line of code, we won't be able to find other error
+        until we solve the current error.
+
+3.  Compiler: Faster.
+    Interpreter: Slower.
+
+4.  Compiler: Used by Java, C, C++, etc.
+    Interpreter: Used bu Python, PHP, etc.
